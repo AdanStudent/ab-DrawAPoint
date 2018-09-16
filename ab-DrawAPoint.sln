@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ab-DrawAPoint", "ab-DrawAPoint\", "{F74704C6-A1C8-46B2-9F50-07245FC77E8E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_29550"
+		Debug.AspNetCompiler.PhysicalPath = "ab-DrawAPoint\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_29550\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_29550"
+		Release.AspNetCompiler.PhysicalPath = "ab-DrawAPoint\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_29550\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "29550"
+		SlnRelativePath = "ab-DrawAPoint\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F74704C6-A1C8-46B2-9F50-07245FC77E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74704C6-A1C8-46B2-9F50-07245FC77E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871F3076-5A64-4BC7-B316-FEE03024A4A0}
+	EndGlobalSection
+EndGlobal
